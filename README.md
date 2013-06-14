@@ -1,4 +1,4 @@
-slcf-docs
+SLCF Docs
 =========
 
 SLCF Documentation
