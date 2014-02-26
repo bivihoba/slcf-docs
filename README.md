@@ -28,3 +28,6 @@ SLCF — каркас для верстки по БЭМ-методологии.
 3. [Сборка стилей](css-tech.md)
 4. BEMXML (TODO)
 5. Использование BEMXML-шаблонов (TODO)
+
+### !
+Для разворачивания под Windows нужно глобально установить [node-gyp](https://github.com/TooTallNate/node-gyp) вместе с зависимостями (Python + Express).
