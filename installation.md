@@ -23,12 +23,12 @@
 Нужно глобально установить [node-gyp](https://github.com/TooTallNate/node-gyp),
 а также необходимые для него Python и Express (в зависимости от версии Windows, подробнее см. на странице node-gyp).
 
-Полноценная работа с SLCF подразумевает использование Git. Установка Git для Windows:
+Полноценная работа с SLCF подразумевает использование [Git] http://git-scm.com/ Установка Git для Windows:
  
-1. Cкачать Git 1.8.3 http://code.google.com/p/msysgit/downloads/list?q=full+installer+official+git  (на момент написания была доступна 1.8.4 feature beta, но у нее была проблема с совместимостью с нодой)
+1. Cкачать Git c http://code.google.com/p/msysgit/downloads/list?q=full+installer+official+git 
 2. Установить Git с дефолтными параметрами
 
-Сборка проекта осуществляется с помощью Grunt, который в свою очередь работает на Nodejs и устанавливается через npm (пакетный менеджер node.js). Для установки Grunt нужно:
+Сборка проекта осуществляется с помощью [Grunt] http://gruntjs.com/, который в свою очередь работает на [Nodejs] http://nodejs.org/ и устанавливается через npm (пакетный менеджер node.js). Для установки Grunt нужно:
 
 1. Скачать и установить Nodejs с дефолтными параметрами http://nodejs.org/
 2. Запустить GitBash и проверить работу npm, выполнив команду 
