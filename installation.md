@@ -25,4 +25,4 @@
 
 ### Разворачивание SLCF-проекта из [шаблона](https://github.com/bivihoba/slcf-boilerplate)
 
-TODO Написать про cleanBoilerplate, initProject, сабмодули 
+TODO Написать про cleanBoilerplate, initProject, сабмодули
