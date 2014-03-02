@@ -29,6 +29,7 @@ SLCF — каркас для верстки по БЭМ-методологии.
 5. [Как развернуть SLCF-проект?](installation.md)
 6. [Обновление существующего проекта](update.md)
 7. [BEMXML](bemxml.md)
+	- [Атрибуты](bemxml-attributes.md)
 8. [HTML в BEMXML](html.md)
 9. Использование BEMXML-шаблонов (TODO)
 
