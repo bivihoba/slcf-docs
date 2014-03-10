@@ -2,7 +2,7 @@
 - slcf-tools added
 - grunt tasks config totally rewritten
 - blocks.less directory renamed into less.blocks
-- auto dependencies for CSS technologies,
+- auto dependencies for CSS technologies
 - "__assets" bundle
 - more detailed docs
 
