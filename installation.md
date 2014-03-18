@@ -33,7 +33,7 @@ xsltproc,
 Склонировать slcf-boilerplate:
 
 ```
-$ gin clone https://github.com/bivihoba/slcf-boilerplate projectName
+$ git clone https://github.com/bivihoba/slcf-boilerplate projectName
 ```
 
 Перейти в папку проекта.
