@@ -1,3 +1,6 @@
+## 3.1.1
+- autoprefixer
+
 ## 3.1.0
 - slcf-tools added
 - grunt tasks config totally rewritten

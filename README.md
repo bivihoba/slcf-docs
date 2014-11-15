@@ -17,6 +17,7 @@ SLCF — каркас для верстки по БЭМ-методологии.
 - [Grunt](https://github.com/gruntjs/grunt) для сборки проекта.
 - [SLCF Compiler](https://github.com/bivihoba/slcf-compiler) для БЭМ-разметки.
 - [LESS](https://github.com/less/less.js/)/[Stylus](https://github.com/learnboost/stylus) в качестве препроцессора CSS.
+- [Autoprefixer](https://github.com/postcss/autoprefixer) для расстановки вендорных префиксов
 - [CSSO](https://github.com/css/csso/) для оптимизации CSS.
 
 
